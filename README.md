@@ -1,5 +1,5 @@
 # Hasta-Takip-Hak-Edis-Yonetim-Sistemi
-Hastanelerdeki cihazların arızalarının takibini kolaylaştırmak amacıyla geliştirilen bir mobil uygulamadır.QR kodlar üzerinden veya manuel arıza bildirimi yapılır, görevli personele atanır, çözüm süreci izlenir ve raporlanabilir.
+Engelli bireylerin yıllık ücretsiz fizik tedavi seans haklarını takip eden, hasta kayıt, çağrı operasyonları, yönetim ve raporlama modüllerinden oluşan, hak ediş süreçlerini otomatikleştiren bir web tabanlı takip ve yönetim sistemidir.
 <img width="1881" height="920" alt="Ekran görüntüsü 2025-10-07 225915" src="https://github.com/user-attachments/assets/b2bbe674-b13e-422a-b5f8-29707282c094" />
 <img width="1535" height="488" alt="Ekran görüntüsü 2025-10-06 150616" src="https://github.com/user-attachments/assets/02c297f5-b06d-432d-bab9-d23c7f010a31" />
 <img width="1889" height="845" alt="Ekran görüntüsü 2025-10-07 230427" src="https://github.com/user-attachments/assets/460a9414-3dc8-42c0-9d7f-58291bbbe479" />
