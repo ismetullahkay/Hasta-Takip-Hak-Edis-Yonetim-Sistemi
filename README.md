@@ -1,0 +1,1 @@
+# Hasta-Takip-Hak-Edis-Yonetim-Sistemi
